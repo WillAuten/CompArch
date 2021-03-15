@@ -1,6 +1,6 @@
 /*When looking for how to time code in milliseconds in C, I found a useful post on stack overflow.
 https://stackoverflow.com/questions/10192903/time-in-milliseconds-in-c
-Apperently, timing things in milliseconds in C is a bit of a struggle. Also, I learned time.h and
+Apparently, timing things in milliseconds in C is a bit of a struggle. Also, I learned time.h and
 clock() only work in seconds.
 */
 
